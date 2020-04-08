@@ -3,7 +3,7 @@ We're sorry that we'll be unable to meet you all in June to explore Data Cleanin
 
 Hopefully, we'll have the opportunity to work with you all in 2021. 
 
-**Alex Provo**, *NYU Libraries*
+**Alex Provo**, *NYU Libraries*  
 **Jay Brodeur**, *McMaster University Library*
 
 # 1. Suggested readings
