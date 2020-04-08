@@ -1,3 +1,7 @@
+---
+permalink: /data-cleaning-text-prep/
+---
+
 # Data Cleaning & Text Prep
 We're sorry that we'll be unable to meet you all in June to explore Data Cleaning and Text Preparation at DSI 2020. Listed below are some suggested introductory readings, lessons, and software packages that may be of interest for those looking to do some self-directed learning on this topic.
 
