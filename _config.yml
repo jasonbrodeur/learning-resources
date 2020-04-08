@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - data-cleaning-text-prep.md
+
+title: Doing Stuff with Data - Learning Resources
+description: Tutorials, how-tos, tips & tricks 
