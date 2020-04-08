@@ -1,8 +1,5 @@
 # Data Cleaning & Text Prep
 
-# Recommended software 
-- [Notepad++](https://notepad-plus-plus.org/downloads/) is a powerful text editing software. A wide variety of plugins are available to assist and automate common taks
-
 # Recommended lessons
 
 ## Carpentries 
@@ -23,6 +20,7 @@
 # Data cleaning / text prep software 
 
 ## Free/Open
+- [Notepad++](https://notepad-plus-plus.org/downloads/) is a powerful text editing software. A wide variety of plugins are available to assist and automate common taks
 - Tidyverse in R: https://www.tidyverse.org/
 - Pandas with Python: https://pandas.pydata.org/
 Data Cleaner:  https://datacleaner.org/
