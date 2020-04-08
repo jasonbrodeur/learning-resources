@@ -13,6 +13,9 @@
 - [Regular expressions](https://regexone.com/)
 - [Using find/replace in Notepad++](https://gerardnico.com/ide/notepad/replace)
 - [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/)
+- [Regular Expressions Tester](https://www.regular-expressions.info/)
+- [RegEx101: Regex explainer and tester](https://regex101.com/)
+
 
 ## Spreadsheets for data cleaning
 - [Data cleaning in spreadsheets](https://guides.library.duke.edu/excel/cleaning)
@@ -22,6 +25,7 @@
 ## Other Software packages
 - [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
 - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html]) - Uses Tidyverse in R. 
+- [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 
 # Data cleaning / text prep software 
 
@@ -31,6 +35,7 @@
 - Pandas with Python: https://pandas.pydata.org/
 - Data Cleaner:  https://datacleaner.org/
 - Knime: https://www.knime.com/
+- OpenRefine: http://openrefine.org/
 
 ## Paid products / Freemium / Commercial Tools:
 - Explanatory.io: https://exploratory.io/
