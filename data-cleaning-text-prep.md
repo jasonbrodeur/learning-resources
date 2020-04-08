@@ -6,8 +6,9 @@
 # Recommended lessons
 
 ## OpenRefine
-- [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/)
+- [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/) workshop from Data Carpentry
 - [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
+- [OpenRefine Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
 ## Regular Expressions
 - [Regular expressions](https://regexone.com/)
