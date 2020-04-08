@@ -7,7 +7,7 @@ Hopefully, we'll have the opportunity to work with you all in 2021.
 **Jay Brodeur**, *McMaster University Library*
 
 # 1. Suggested readings
-- [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/)
+- [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/), by Katie Rawson and Trevor Muñoz.
 
 # 2. Recommended lessons and useful resources
 Below are some recommended self-directed lessons and utilities that cover a variety of approaches using different common tools for data cleaning and text preparation. Some of what you'll learn here is specifc to the software package being used, while some approaches and concepts can be used in combination (spreadsheets and regular expressions, as an example).
@@ -39,15 +39,15 @@ Below is a list of software packages and services that are used for common data 
 
 ## Free/open tools
 - [Notepad++](https://notepad-plus-plus.org/downloads/) is a powerful text editing software. A wide variety of plugins are available to assist and automate common taks
-- Tidyverse in R: https://www.tidyverse.org/
-- Pandas with Python: https://pandas.pydata.org/
-- Data Cleaner:  https://datacleaner.org/
-- OpenRefine: http://openrefine.org/
+- [Tidyverse in R](https://www.tidyverse.org/)
+- [Pandas with Python](https://pandas.pydata.org/)
+- [Data Cleaner](https://datacleaner.org/)
+- [OpenRefine](http://openrefine.org/)
 
 ## Paid/freemium/commercial tools:
-- Explanatory.io: https://exploratory.io/
-- Data Ladder: https://dataladder.com/
-- Tableau Prep: https://www.tableau.com/products/prep
-- Trifacta: https://www.trifacta.com/
-- Knime: https://www.knime.com/
+- [Explanatory.io](https://exploratory.io/)
+- [Data Ladder](https://dataladder.com/)
+- [Tableau Prep](https://www.tableau.com/products/prep)
+- [Trifacta](https://www.trifacta.com/)
+- [Knime](https://www.knime.com/)
 
