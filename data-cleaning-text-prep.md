@@ -23,12 +23,12 @@
 - [Notepad++](https://notepad-plus-plus.org/downloads/) is a powerful text editing software. A wide variety of plugins are available to assist and automate common taks
 - Tidyverse in R: https://www.tidyverse.org/
 - Pandas with Python: https://pandas.pydata.org/
-Data Cleaner:  https://datacleaner.org/
-Knime: https://www.knime.com/
+- Data Cleaner:  https://datacleaner.org/
+- Knime: https://www.knime.com/
 
 ## Paid products / Commercial Tools:
-Explanatory.io: https://exploratory.io/
-Data Ladder: https://dataladder.com/
-Tableau Prep: https://www.tableau.com/products/prep
-Trifacta: https://www.trifacta.com/
+- Explanatory.io: https://exploratory.io/
+- Data Ladder: https://dataladder.com/
+- Tableau Prep: https://www.tableau.com/products/prep
+- Trifacta: https://www.trifacta.com/
 
