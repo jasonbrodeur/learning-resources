@@ -3,13 +3,16 @@
 # Recommended lessons
 
 ## Carpentries 
-- OpenRefine for Social Science Data: https://datacarpentry.org/openrefine-socialsci/
-- Data Organization in Spreadsheets for Social Scientists: https://datacarpentry.org/spreadsheets-socialsci/
+- [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/)
+- [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)
 - (less relevant, but uses Tidyverse in R) (Data Analysis and Visualization in R for Ecologists)[https://datacarpentry.org/R-ecology-lesson/index.html]
+- [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/)
+- [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
 
 ## Regular Expressions
 - [Regular expressions](https://regexone.com/)
 - [Using find/replace in Notepad++](https://gerardnico.com/ide/notepad/replace)
+- [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/)
 
 ## Spreadsheets for data cleaning
 - [Data cleaning in spreadsheets](https://guides.library.duke.edu/excel/cleaning)
