@@ -13,14 +13,15 @@ Hopefully, we'll have the opportunity to work with you all in 2021.
 Below are some recommended self-directed lessons and utilities that cover a variety of approaches using different common tools for data cleaning and text preparation. Some of what you'll learn here is specifc to the software package being used, while some approaches and concepts can be used in combination (spreadsheets and regular expressions, as an example).
  
 ## Spreadsheets for data cleaning
-- [Data cleaning in spreadsheets](https://guides.library.duke.edu/excel/cleaning)
-- [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/)
-- [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)
+- [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/), from Data Carpentry.
+- [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/), from Library Carpentry.
+- [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/), from Data Carpentry.
+- [Data cleaning in spreadsheets](https://guides.library.duke.edu/excel/cleaning), from Duke Library.
 
 ## OpenRefine
-- [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/). OpenRefine workshop from Data Carpentry.
-- [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/). OpenRefine workshop from Lirbary Carpentry.
-- [OpenRefine Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes). A collection of useful recipes for achieving certain tasks in OpenRefine.
+- [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/), from Data Carpentry.
+- [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/), from Library Carpentry.
+- [OpenRefine Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes). "A collection of useful recipes for achieving certain tasks in OpenRefine".
 
 ## Regular Expressions
 - [Regular expressions](https://regexone.com/)
@@ -30,8 +31,8 @@ Below are some recommended self-directed lessons and utilities that cover a vari
 - [RegEx101: Regex explainer and tester](https://regex101.com/)
 
 ## Other Software packages
-- [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62)
-- [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html]) - Uses Tidyverse in R. 
+- [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62), using Tidyverse in R.
+- [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html]), from Data Carpentry using Tidyverse in R. 
 - [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 
 # 3. Software packages for data cleaning & text preparation
