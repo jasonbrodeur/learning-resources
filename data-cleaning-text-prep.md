@@ -33,6 +33,7 @@ Below are some recommended self-directed lessons and utilities that cover a vari
 - [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/)
 - [Regular Expressions Tester](https://www.regular-expressions.info/)
 - [RegEx101: Regex explainer and tester](https://regex101.com/)
+- [ExtendsClass: Regex visualizer and tester](https://extendsclass.com/regex-tester.html)
 
 ## Other Software packages
 - [Data Cleaning with R and the Tidyverse: Detecting Missing Values](https://towardsdatascience.com/data-cleaning-with-r-and-the-tidyverse-detecting-missing-values-ea23c519bc62), using Tidyverse in R.
